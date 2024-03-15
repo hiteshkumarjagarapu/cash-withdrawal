@@ -1,0 +1,18 @@
+.para {
+  color: '';
+}
+.bg1 {
+  background-color: 'ffffff';
+}
+.bg2 {
+  background-color: '150b3e';
+}
+.bg3 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.but {
+  background-color: 'c7d2fe';
+  border-radius: 5px;
+}
