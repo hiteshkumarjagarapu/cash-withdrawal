@@ -23,7 +23,7 @@ class CashWithdrawal extends Component {
             <p>{count}</p>
           </div>
           <p>Withdraw</p>
-          <p>CHOOSE SUM(IN RUPEES)</p>
+          <p>CHOOSE SUM (IN RUPEES)</p>
           <ul className="bg3">
             {denominationsList.map(each => (
               <DenominationItem
